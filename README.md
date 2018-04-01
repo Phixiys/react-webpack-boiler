@@ -12,7 +12,7 @@ Simple and optimized React boilerplate. It includes:
   <!-- * [x] ES6 linting with continuous linting on file change -->
 * [x] Styled Components
 * [x] Automatic HTML generation
-* [x] Production Config
+  <!-- * [x] Production Config -->
 * [x] Custom Babel Preset with Decorators, Class Properties, Rest/Spread operator support
 * [ ] Redux
 
