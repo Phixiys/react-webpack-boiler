@@ -9,7 +9,7 @@ Simple and optimized React boilerplate. It includes:
 * [x] React Router v4
   <!-- * [x] Component testing using [Enzyme](https://github.com/airbnb/enzyme) and [Jest](https://facebook.github.io/jest) -->
 * [x] Latest Webpack (v.4.4.1) and Webpack Dev Server (v.3.1.1)
-* [x] ES6 linting with continuous linting on file change
+  <!-- * [x] ES6 linting with continuous linting on file change -->
 * [x] Styled Components
 * [x] Automatic HTML generation
 * [x] Production Config
